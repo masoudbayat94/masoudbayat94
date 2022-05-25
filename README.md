@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Masoud Bayat
-- 👀 I'm interested in web development and network
+- 👀 I'm interested in web development, network and telecommunications 
 - 🌱 I’m currently learning javaScript
 - 📫 This is my E-Mail: masoud.bayat94@gmail.com
 
