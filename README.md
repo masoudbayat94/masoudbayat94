@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Masoud Bayat
 - 👀 I'm interested in web development, network and telecommunications 
-- 🌱 I’m currently learning javaScript
+- 🌱 I’m currently learning React Js
 - 📫 This is my E-Mail: masoud.bayat94@gmail.com
 
 <!---
